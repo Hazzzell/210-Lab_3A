@@ -1,0 +1,12 @@
+7 2003
+Pasta Restaurant
+123 Main St
+Italian
+8 2010
+Sushi Restaurant
+456 ABC Ave
+Japanese
+9 2015
+Burger King
+789 DEF Blvd
+American
